@@ -1,0 +1,19 @@
+{
+    "name": "NavMeshComponentsEditor",
+    "references": [
+        "NavMeshComponents"
+    ],
+    "includePlatforms": [
+        "Android",
+        "Editor",
+        "WSA"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
